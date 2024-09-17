@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crawl": "node crawl.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.6",
+    "html-pdf": "^3.0.1",
+    "pdf-merge": "^1.2.0",
+    "puppeteer": "^20.9.0"
+  }
+}
